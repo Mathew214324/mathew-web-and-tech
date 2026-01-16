@@ -219,15 +219,14 @@ function Contact() {
             Email me what your business is and what you need. I’ll reply with a clear price.
           </p>
 
-          <a
-  href="mailto:mathewwebandtech@gmail.com?subject=Website%20Quote%20Request&body=Hi%20Mathew%2C%0A%0AMy%20business%20name%3A%0AWhat%20I%20need%20(website%2FPC)%3A%0AApprox%20budget%3A%0APhone%20number%20(optional)%3A%0A%0AThanks%21"
+<a
+  href="mailto:mathewwebandtech@gmail.com?subject=Website%20Quote%20Request&body=Hi%20Mathew%2C%0A%0AMy%20business%20name%3A%0AWhat%20I%20need%3A%0ABudget%3A%0APhone%20(optional)%3A%0A%0AThanks%21"
+  target="_blank"
+  rel="noreferrer"
   className="mt-6 inline-flex items-center justify-center rounded-xl bg-[color:var(--primary)] px-6 py-3 text-sm font-semibold text-black hover:bg-[color:var(--primaryDark)]"
 >
   Email me
 </a>
-
-
-
           <p className="mt-4 text-sm text-white/70">
             Based in Northern Ireland — working worldwide
           </p>
