@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #070b10;
+  --surface: #0b1220;
+  --border: #17243a;
+  --text: #eaf2ff;
+  --muted: #a7b6d1;
+  --primary: #24c6d9;
+  --primaryDark: #12afc2;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background:
+    radial-gradient(1000px circle at 20% 10%, rgba(36, 198, 217, 0.14), transparent 60%),
+    radial-gradient(900px circle at 80% 40%, rgba(36, 198, 217, 0.10), transparent 55%),
+    var(--bg);
+  color: var(--text);
+}
