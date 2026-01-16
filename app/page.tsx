@@ -220,8 +220,7 @@ function Contact() {
           </p>
 
 <a
-  href="mailto:mathew40business@gmail.com?subject=Website%20Quote%20Request&body=Hi%20Mathew%2C%0A%0AMy%20business%20name%3A%0AWhat%20I%20need%3A%0ABudget%3A%0APhone%20(optional)%3A%0A%0AThanks%21"
-  target="_blank"
+  href="mailto:mathew40business@gmail.com?subject=Website%20Quote%20Request&body=Hi%20Mathew%2C%0A%0AMy%20business%20name%3A%0AWhat%20I%20need%3A%0AWebsite%20type%3A%0AApprox%20budget%3A"
   rel="noreferrer"
   className="mt-6 inline-flex items-center justify-center rounded-xl bg-[color:var(--primary)] px-6 py-3 text-sm font-semibold text-black hover:bg-[color:var(--primaryDark)]"
 >
